@@ -1,0 +1,13 @@
+
+Ksquid:S1604&"(Make this anonymous inner class a lambda(½şÉûüÿÿÿÿ8ìâ»ÓŒ.
+Fsquid:S1604E"(Make this anonymous inner class a lambda(ÂêÌÁ8ü©öŒ.
+¤squid:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üşÊÊùÿÿÿÿ8ìâ»ÓŒ.
+dsquid:UselessImportCheck"9Remove this unused import 'response.CreateEventResponse'.(·Ş¸–8–ñ¾ª.
+[squid:S1481?"8Remove this unused "deleteEventResponse" local variable.(µŞ¾¨ÿÿÿÿÿ8®¼¾ª.
+Fsquid:S1604"(Make this anonymous inner class a lambda(Ÿ­Ÿ†8Ô¬ÓŒ.
+isquid:UselessImportCheck"9Remove this unused import 'response.UpdateEventResponse'.(¸¾„¦üÿÿÿÿ8ƒşıöŒ.
+Fsquid:S16042"(Make this anonymous inner class a lambda(ƒğ…ª8ïìäÔŒ.
+Fsquid:S1604<"(Make this anonymous inner class a lambda(ğ×µ‚8ƒ“¥öŒ.
+¤squid:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üşÊÊùÿÿÿÿ8ü©öŒ.
+jsquid:S1854?"GRemove this useless assignment to local variable "deleteEventResponse".(µŞ¾¨ÿÿÿÿÿ8ıü½ª.
+¤squid:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´µùúÿÿÿÿ8ùè£ÓŒ.

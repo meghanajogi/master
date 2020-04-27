@@ -1,0 +1,8 @@
+
+Fsquid:S1185W"(Remove this method to simply inherit it.(öÿÕÅ8ƒëÌç.
+wsquid:S00116/"SRename this field "end_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«©¾—şÿÿÿÿ8ôäŒõŒ.
+bsquid:UselessImportCheck"2Remove this unused import 'common.DatabaseHelper'.(¾²°ıÿÿÿÿ8°Ò¬¥.
+Fsquid:S1185]"(Remove this method to simply inherit it.(ßû¢½8ƒëÌç.
+dsquid:UselessImportCheck"4Remove this unused import 'android.database.Cursor'.(Ôäåúÿÿÿÿ8Ñ«¬¥.
+X"squid:SwitchLastCaseIsDefaultCheckÁ""Add a default case to this switch.(ºÖ8˜ÉÈÌ.
+ssquid:S00116."URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­øı48ôäŒõŒ.

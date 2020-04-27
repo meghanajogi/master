@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Event Blog</string>
+    <string name="event_management">Event Blog</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter your name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="start_date">Start date:</string>
+    <string name="description">Description:</string>
+    <string name="title">Title</string>
+    <string name="descriptions">Description</string>
+    <string name="startdate">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="create_by">Create by</string>
+    <string name="save">SAVE</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_description">Enter description</string>
+
+
+</resources>
